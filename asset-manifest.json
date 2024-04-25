@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gocart_webapp/static/css/main.1a2f2eac.css",
+    "main.js": "/gocart_webapp/static/js/main.6333d413.js",
+    "static/js/422.d10965c7.chunk.js": "/gocart_webapp/static/js/422.d10965c7.chunk.js",
+    "index.html": "/gocart_webapp/index.html",
+    "main.1a2f2eac.css.map": "/gocart_webapp/static/css/main.1a2f2eac.css.map",
+    "main.6333d413.js.map": "/gocart_webapp/static/js/main.6333d413.js.map",
+    "422.d10965c7.chunk.js.map": "/gocart_webapp/static/js/422.d10965c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a2f2eac.css",
+    "static/js/main.6333d413.js"
+  ]
+}
